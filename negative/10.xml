@@ -21,18 +21,18 @@ _____
 <reply id="cnhp8qw" author="cold08">
 Scenario 1:
 
-<pathos> Let's say you're a drug addict and due to your addiction you can't hold down a job, are really strung out and resort to one of the stupidest ways to make $100 for your next fix which is mugging people on the street. </pathos> <claim> Not getting the money is not an option </claim> <logos> <pathos> because you're desperate </pathos> </logos>.
+<logos> <pathos> Let's say you're a drug addict and due to your addiction you can't hold down a job, are really strung out and resort to one of the stupidest ways to make $100 for your next fix which is mugging people on the street. </pathos> </logos> <claim> Not getting the money is not an option </claim> <logos> <pathos> because you're desperate </pathos> </logos>.
 
-<pathos> If one in 10,000 people are carrying firearms, do you take your chances and try to get someone to hand over their cash without shooting someone or do you kill them outright and steal their valuables off their corpse? </pathos>
+<logos> <pathos> If one in 10,000 people are carrying firearms, do you take your chances and try to get someone to hand over their cash without shooting someone or do you kill them outright and steal their valuables off their corpse? </pathos> </logos>
 
-  <pathos> How does that decision change when the odds are 1 in 5? </pathos>
+  <logos> <pathos> How does that decision change when the odds are 1 in 5? </pathos> </logos>
 
   <pathos> Remember, you're an addict and not getting the money is not an option. </pathos>
 
 
 Scenario 2:
 
-  <pathos> You're carrying and you rear end a guy. </pathos> <pathos> You pull over and the guy is really mad and he gets out of his car yelling up a storm. </pathos> <pathos> You know there is a 1 in 5 chance that the guy is carrying as well. </pathos> <pathos> When do you reach for your holster to draw your weapon </pathos> and <pathos> when do you fire it? </pathos>
+  <pathos> You're carrying and you rear end a guy. </pathos> <pathos> You pull over and the guy is really mad and he gets out of his car yelling up a storm. </pathos> <pathos> <logos> You know there is a 1 in 5 chance that the guy is carrying as well. </logos> </pathos> <pathos> When do you reach for your holster to draw your weapon </pathos> and <pathos> when do you fire it? </pathos>
 
   1. <pathos> When he's angry and yelling at you? </pathos>
 
@@ -50,7 +50,7 @@ Scenario 3:
 
   <pathos> Do you wait until you're sure he has decided to use his firearm to act? </pathos> or <pathos> do you act first because by the time you're sure he is going to draw his firearm, you won't have time to act before he shoots you? </pathos>
 
-  <claim> The only reason this stuff doesn't happen all the time is </claim> <logos> because we can make the reasonable assumption that a person we are having a conflict with is unarmed </logos>. <logos> As soon as it becomes a reasonable assumption, immediately escalating a conflict to deadly force starts being the best option. </logos>
+  <claim> The only reason this stuff doesn't happen all the time is because we can make the reasonable assumption that a person we are having a conflict with is unarmed. </claim> <logos> <pathos> As soon as it becomes a reasonable assumption, immediately escalating a conflict to deadly force starts being the best option. </pathos> </logos>
 
 <pathos> <ethos> I've worked in customer service and have been yelled at by strangers more often than anyone should have. </ethos> </pathos> <pathos> <logos> If I lived in a society where most people were carrying firearms, I would have had to ask myself "Is this person angry enough to kill me? because if I wait to find out for sure I'll already be dead" way more often than I'd like. </logos> </pathos>
 </reply>
