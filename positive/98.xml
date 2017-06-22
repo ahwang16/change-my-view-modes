@@ -3,34 +3,38 @@
 <title>CMV: If a child struggles to achieve in grade school it is virtually always the parents' fault.</title>
 <source>http://www.reddit.com/r/changemyview/comments/2qaf6l/cmv_if_a_child_struggles_to_achieve_in_grade/</source>
 <OP author="unidangit">
-<logos> For the sake of this thread, we'll exclude children with medically diagnosed learning disabilities </logos>; <claim> IMO the knowledge and resource base for teaching said children is probably proportionate to the percentage they make up of the overall population </claim>.
+<relation_support ref="a"> <logos> For the sake of this thread, we'll exclude children with medically diagnosed learning disabilities </logos> </relation_support>; <claim id="a"> IMO the knowledge and resource base for teaching said children is probably proportionate to the percentage they make up of the overall population </claim>.
 
-<logos> With a healthy child, income, neighborhood, peers and teachers should be filtered through a responsible parent(s). </logos> <claim> A child who struggles in earnest or intentionally slacks off is a direct reflection of parenting. </claim> <claim> I am curious regarding potential for more public accountability held to parents who fail to direct their child. </claim> (<logos> maybe a monetary incentive derived from public tax coffers paid to parents of children who maintain a passing grade, to be withheld if child dips below </logos>.)
+<relation_support ref="b"> <logos> With a healthy child, income, neighborhood, peers and teachers should be filtered through a responsible parent(s). </logos> </relation_support> <claim id="b"> A child who struggles in earnest or intentionally slacks off is a direct reflection of parenting. </claim> <claim id="c"> I am curious regarding potential for more public accountability held to parents who fail to direct their child. </claim> (<relation_support ref="c"> <logos> maybe a monetary incentive derived from public tax coffers paid to parents of children who maintain a passing grade, to be withheld if child dips below </logos> </relation_support>.)
 
-<claim> I think parents are virtually 100% responsible for producing scholastically successful children </claim>. CMV.
+<claim id="d"> I think parents are virtually 100% responsible for producing scholastically successful children </claim>. CMV.
 </OP>
-<reply id="cn4h6d8" author="Snapop23">
-  <ethos> I had parents who were extremely persistent about making sure i stayed on track. </ethos> <ethos> <pathos> I was only recently diagnosed with adhd a reading disability </pathos> </ethos> and <pathos> im 20 years old </pathos>. <pathos> <ethos> I graduated on time but i struggled so much </ethos> </pathos> . <pathos> <ethos> I failed a bunch of stuff and was constantly embarrassed to show my grades to other people. </ethos> </pathos> <pathos> <logos> I lost hope often because things felt hopeless </logos> </pathos> , <pathos> <logos> which lead teachers, doctors, family and other students to think i just didnt care </logos> </pathos>.   
+<reply id="cn4b28t" author="hacksoncode">
+  <claim id="e"> One of the largest predictors for success appears to be not being poor. </claim>
 
-  <claim> An issue is there are a ton of people with "disabilities" more so than you'd think. </claim> <logos> Thats because we teach everyone to think the same way. </logos>
-
-  <claim> Thats the issue. </claim> <ethos> Im really good at doing certain things. </ethos> <logos> <ethos> For example, i can read , write, and even speak backwards pretty well. </ethos> </logos> <ethos> My brain is wired differently. </ethos>
-
-  <ethos> <pathos> I cant do the things the average person can </pathos> </ethos>, but <ethos> <pathos> i can do a lot of things that they cant </pathos> </ethos>. <claim> It doesnt make me stupid </claim>, because <logos> <pathos> im capable of the same things just in a different way </pathos> </logos>, but <pathos> my experience at school did its best to convince me that i was stupid </pathos>. <claim> THAT is the issue </claim>. <claim> Everyone has a mind that works in its own way </claim>.  
-
-  <claim> The problem isnt always bad parenting, though that can play a role, </claim> <claim> the problem is a black and white educational system </claim>. 
-
-<claim> Treating everyone the same way, other than special classes for "dumb" kids is the problem. </claim>
-
-  <claim> Learning seems hard or dumb to some kids </claim> and <logos> <pathos> thats because its not tapping into their mind right </pathos> </logos>.  
-
-<claim> If a child can discuss something he or she cares about then the parents are just a plus. </claim> 
+How would you account for that? <relation_undercutter ref="c"> <claim id="f"> It seems like fining poor people has some potential negative effects... on the children. </claim> </relation_undercutter>
 </reply>
-<reply id="cn4irnn" author="unidangit">
+<reply id="cn4ckfy" author="unidangit">
+  <relation_rebuttal_attack ref="f"> <claim id="g"> It wouldn't be a fine </claim> </relation_rebuttal_attack>, <relation_support ref="g"> <logos> since it would only be a suspension of "assistance" anyway </logos>. <logos> And poverty is a formidable obstacle but many, many people come from poverty to be wildly successful. </logos> </relation_support> <relation_rebuttal_attack ref="e"> <claim id="h"> That cannot be a blanket excuse for poor academic performance. </claim> </relation_rebuttal_attack> <claim id="i"> I believe the fulcrum of a child's development has always been, and will always be the parent(a living, mentally capable set of or just one parent). </claim>
+</reply>
+<reply id="cn4cvhm" author="hacksoncode">
+<claim id="j"> Yeah </claim>, but <relation_undercutter ref="h"> <claim id="k"> my point is that giving money to people that have successful children is going, ultimately, to lead to giving money to people that already have money, and withholding it from ones that don't </claim> </relation_undercutter>. 
+
+<relation_undercutter ref="h"> <claim id="l"> Unless you make the reward high enough to overcome the *reasons* that poor parents are less involved (<relation_support ref="l"> <logos> e.g. they don't have time because they are having to work 2 jobs just to support the children </logos> </relation_support>), it's not going to solve the problem. </claim> </relation_undercutter> And <claim id="m"> that's going to be very expensive </claim>. 
+
+Furthermore, <claim id="n"> there's a more fundamental *reason* that poor parents are poorer at helping their children </claim>... <relation_support ref="n"> <logos> they're statistically dumber than richer people </logos>. <logos> Ignorance might be the cause, of course, rather than just lack of intrinsic intelligence </logos> </relation_support>. 
+
+<claim id="o"> It would seem that a better approach would be to pay parents to attend training on how to be better parents, rather than rewarding the ones that have just happened to figure it out on their own </claim>. 
+
+But honestly, <claim id="p"> I think you're just being naive about actual statistical variation in native intelligence </claim>. <relation_support ref="p"> <logos> There's really no reason to believe that every person has exactly the same potential to succeed well in school </logos>. <logos> A simpler explanation is that native intelligence is probably normally distributed, like almost every other trait people possess </logos> </relation_support>. 
+</reply>
+<reply id="cn4d9is" author="unidangit">
 &amp;#8710;
 
-&gt;<quote> I cant do the things the average person can, but i can do a lot of things that they cant. It doesnt make me stupid, because im capable of the same things just in a different way, but my experience at school did its best to convince me that i was stupid. THAT is the issue. Everyone has a mind that works in its own way. </quote>
+Edit: tried to award you the delta. 
 
-  <claim> Yes. </claim> <claim> I think that builds my initial point. </claim> <logos> Parents should be educated on how to identify *how* their child's mind works. </logos> <logos> This is what I meant when I said "100%" on the parents. </logos> <logos> You're parents would've known how to turn the way your mind worked into a successful academic career, in a perfect world. </logos>
+  <relation_agreement ref="p"> <claim id="q"> Native intelligence is the challenge. </claim> </relation_agreement> I won't delve into how this has infected my view, but <claim id="r"> I will say that it ties into why I think a moneyless society would over time revert to fiat currency </claim>. <relation_support ref="q"> <logos> Some people can do some thing's better than others </logos> </relation_support> ...thanks. <relation_agreement ref="p"> <claim id="s"> Nice exercise </claim> </relation_agreement>.
+
+Edit: there we go!
 </reply>
 </thread>
