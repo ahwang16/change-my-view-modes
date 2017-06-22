@@ -12,9 +12,9 @@
 
 <claim id="a"> Surrounding yourself with this will in general make you into a more pessimistic, negative and possibly depressive person. </claim>
 
-  <claim> I'm not saying that every person who browses 4chan is depressed or negative </claim>, but <claim> that the majority of them are affected negatively by browsing the site </claim>.
+  <claim id="b"> I'm not saying that every person who browses 4chan is depressed or negative </claim>, but <claim id="c"> that the majority of them are affected negatively by browsing the site </claim>.
 
-<claim> Thinking that you are unaffected by this doesn't necessarily mean you are, but instead means that you are unaware of how much it affects you. </claim>
+<claim id="d"> Thinking that you are unaffected by this doesn't necessarily mean you are, but instead means that you are unaware of how much it affects you. </claim>
 
 EDIT: [Awarded Delta](http://www.reddit.com/r/changemyview/comments/2rawgb/cmv_i_believe_that_regularly_browsing_4chan_will/cneyhn7?context=3)
 _____
@@ -22,11 +22,11 @@ _____
 &gt; *Hello, users of CMV! This is a footnote from your moderators. We'd just like to remind you of a couple of things. Firstly, please remember to* ***[read through our rules](http://www.reddit.com/r/changemyview/wiki/rules)***. *If you see a comment that has broken one, it is more effective to report it than downvote it. Speaking of which,* ***[downvotes don't change views](http://www.reddit.com/r/changemyview/wiki/guidelines#wiki_upvoting.2Fdownvoting)****! If you are thinking about submitting a CMV yourself, please have a look through our* ***[popular topics wiki](http://www.reddit.com/r/changemyview/wiki/populartopics)*** *first. Any questions or concerns? Feel free to* ***[message us](http://www.reddit.com/message/compose?to=/r/changemyview)***. *Happy CMVing!*
 </OP>
 <reply id="cne8jx4" author="jacobpilawa">
-  <claim id="b"> I think this isn't ALWAYS true. </claim> <relation_support ref="b"> <logos> Some people aren't changed by others that easily. </logos> </relation_support> And <claim id="c"> I think your argument applies only to boards like /b/ or /pol/ </claim>. <relation_support ref="c"> <logos> If you go on 4chan right now to the /wg/ board (wallpapers) or the /vr/ board, almost everyone there is nice </logos> </relation_support>. They are the boards to people with dedication and interests, though. 
+  <relation_rebuttal_attack ref="a"> <claim id="e"> I think this isn't ALWAYS true. </claim> </relation_rebuttal_attack> <relation_support ref="e"> <logos> Some people aren't changed by others that easily. </logos> </relation_support> And <relation_partial_agreement ref="c"> <claim id="f"> I think your argument applies only to boards like /b/ or /pol/ </claim> </relation_partial_agreement>. <relation_support ref="f"> <logos> If you go on 4chan right now to the /wg/ board (wallpapers) or the /vr/ board, almost everyone there is nice </logos> </relation_support>. They are the boards to people with dedication and interests, though. 
 </reply>
 <reply id="cne908s" author="InsaneTeaparty">
-  <claim> I think those boards are bit more niche and have less users. </claim>
+  <relation_partial_attack ref="f"> <claim id="g"> I think those boards are bit more niche and have less users. </claim> </relation_partial_attack>
 
-  But <claim id="d"> I get your point </claim>, <relation_support ref="d"> <ethos> <logos> in my experience /vg/ has been pretty good since people in those threads generally like the games they're talking about and not just wildly pissing about </logos> </ethos> </relation_support>.
+  But <relation_agreement ref="f"> <claim id="g"> I get your point </claim> </relation_agreement>, <relation_support ref="f"> <ethos> <logos> in my experience /vg/ has been pretty good since people in those threads generally like the games they're talking about and not just wildly pissing about </logos> </ethos> </relation_support>.
 </reply>
 </thread>
