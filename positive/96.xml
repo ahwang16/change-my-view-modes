@@ -3,23 +3,23 @@
 <title>CMV: America is not a democracy</title>
 <source>http://www.reddit.com/r/changemyview/comments/2qbry8/cmv_america_is_not_a_democracy/</source>
 <OP author="Smelly_Bob">
-Really though. <logos> There is an unchecked organization that spies on them 24/7 without consent. </logos> <logos> The US has given itself license to detain and torture citizens with no trial. </logos> <logos> The energy laws in that country allow corporations to drill where they please and, as a result, poison who they please. </logos> American citizens have clearly been lied to in many situations. These lies have led to events like the second gulf war. Not to mention the completely unregulated financial system. 
+Really though. <relation_support ref="a"> <logos> There is an unchecked organization that spies on them 24/7 without consent. </logos> </relation_support> <relation_support ref="a"> <logos> The US has given itself license to detain and torture citizens with no trial. </logos> </relation_support> <relation_support ref="a"> <logos> The energy laws in that country allow corporations to drill where they please and, as a result, poison who they please. </logos> </relation_support> American citizens have clearly been lied to in many situations. These lies have led to events like the second gulf war. Not to mention the completely unregulated financial system. 
 
-Honestly, none of these things have been democratically voted for, so why are Americans so deluded about this? <claim> It's not a free, democratic society by any means. </claim> <claim> It's clearly an oligarchy </claim>
+Honestly, none of these things have been democratically voted for, so why are Americans so deluded about this? <claim id="a"> It's not a free, democratic society by any means. </claim> <claim id="b"> It's clearly an oligarchy </claim>
 </OP>
 <reply id="cn4pxm7" author="brutishbloodgod">
-<claim> A democracy is not necessarily a functional, benevolent government, nor is a democracy necessarily free. </claim> <logos> The USA was intended to be a federal republic, a republic being a form of indirect democracy. </logos> To see if it actually *is* one (at least the "republic" part), we just need to answer a few simple questions.
+<claim id="c"> A democracy is not necessarily a functional, benevolent government, nor is a democracy necessarily free. </claim> <relation_support ref="d"> <logos> The USA was intended to be a federal republic, a republic being a form of indirect democracy. </logos> </relation_support> To see if it actually *is* one (at least the "republic" part), we just need to answer a few simple questions.
 
-  <claim> Is political power in the US held by elected officials? </claim>
+  <claim id="d"> Is political power in the US held by elected officials? </claim>
 
-  <claim> Are those officials elected in free and fair democratic elections? </claim>
+  <claim id="e"> Are those officials elected in free and fair democratic elections? </claim>
 
-  <claim> The answer to both of those questions is unambiguously "yes." </claim> <logos> The domestic spying, the secret courts, the torture, the corporate favoritism, the environmental destruction, the lies, the unjustified wars, the unregulated financial system... all of those are things instituted or approved by our democratically elected officials, fully within the scope of power ceded to them by the constitution. </logos> And <logos> we continue to vote those who do these things into office in free and fair elections, time and time again, without fail </logos> .
+  <claim id="f"> The answer to both of those questions is unambiguously "yes." </claim> <relation_support ref="f"> <logos> The domestic spying, the secret courts, the torture, the corporate favoritism, the environmental destruction, the lies, the unjustified wars, the unregulated financial system... all of those are things instituted or approved by our democratically elected officials, fully within the scope of power ceded to them by the constitution. </logos> </relation_support> And <relation_support ref="f"> <logos> we continue to vote those who do these things into office in free and fair elections, time and time again, without fail </logos> </relation_support> .
 
-  <claim> You can argue, perhaps successfully, that the US is a fascist, un-free state </claim>, but <claim> it remains by definition a democratic one </claim> .
+  <claim id="g"> You can argue, perhaps successfully, that the US is a fascist, un-free state </claim>, but <claim id="h"> it remains by definition a democratic one </claim> .
 </reply>
 <reply id="cn57z2h" author="Smelly_Bob">
-  <claim> Fair enough haha. </claim> <claim> This is the best argument I've seen here </claim>
+  <relation_agreement ref="h"> <claim id="i"> Fair enough haha. </claim> </relation_agreement> <claim> This is the best argument I've seen here </claim>
 
 Edit: but how can you have truly fair elections if things like superpacs exist?
 </reply>
@@ -27,27 +27,27 @@ Edit: but how can you have truly fair elections if things like superpacs exist?
 What's your basis for believing that SuperPACs make elections un-free or un-fair?
 </reply>
 <reply id="cn5toxz" author="Smelly_Bob">
-  <claim> Well in my brain a fair election is when anyone can run for office. </claim> <pathos> The fact that you need millions of dollars to do so seems unfair. </pathos> <logos> <pathos> It instantly results in a situation where only the rich can run for and hold offices. </pathos> </logos> <claim> On the municipal level I don't think superpacs are a problem, but definitely on a federal level. </claim>
+  <claim id="j"> Well in my brain a fair election is when anyone can run for office. </claim> <relation_agreement ref="j"> <pathos> The fact that you need millions of dollars to do so seems unfair. </pathos> <logos> <pathos> It instantly results in a situation where only the rich can run for and hold offices. </pathos> </logos> </relation_agreement> <claim id="k"> On the municipal level I don't think superpacs are a problem, but definitely on a federal level. </claim>
 </reply>
 <reply id="cn63czg" author="brutishbloodgod">
-  <claim> Anyone *can* run for office. </claim> <logos> You might not get very far </logos>, but you can run. And <claim> you don't need millions of dollars </claim> , <logos> you need to be *able to raise* millions of dollars </logos>. In itself, <claim> I don't see a problem with that </claim>. <logos> <pathos> Raising large amounts of money requires leadership, diplomacy, organization, charisma… all traits I like to see in my elected officials. </pathos> </logos> <logos> <pathos> The corruption and lack of transparency created by PACs and SuperPACs and Citizens United in general is definitely a major problem </pathos> </logos> , but <logos> like some other things that have come up in this discussion </logos> , <claim> it's not an issue that makes the USA an un-democratic state </claim>. <logos> There's no rule saying that the person who raises the most money wins the election.</logos> <logos> The fact that most people vote for the most visible candidate on their side rather than the one that most closely represents their interests is a problem with the electorate and also a result of our winner-take-all voting system </logos>, but <claim> neither of those are in conflict with the USA being a democracy by definition </claim>. 
+  <relation_rebuttal_attack ref="k"> <claim id="l"> Anyone *can* run for office. </claim> </relation_rebuttal_attack> <relation_support ref="l"> <logos> You might not get very far </logos>, but <logos> you can run </logos> </relation_support> . And <relation_rebuttal_attack ref="k"> <claim id="m"> you don't need millions of dollars </claim> </relation_rebuttal_attack>, <relation_support ref="m"> <logos> you need to be *able to raise* millions of dollars </logos> </relation_support>. In itself, <claim id="n"> I don't see a problem with that </claim>. <relation_support ref="n"> <logos> <pathos> Raising large amounts of money requires leadership, diplomacy, organization, charisma… all traits I like to see in my elected officials. </pathos> </logos> </relation_support>  <claim id="o"> The corruption and lack of transparency created by PACs and SuperPACs and Citizens United in general is definitely a major problem </claim> , but like some other things that have come up in this discussion, <claim id="p"> it's not an issue that makes the USA an un-democratic state </claim>. <relation_support id="p"> <logos> There's no rule saying that the person who raises the most money wins the election.</logos> </relation_support> <relation_support id="p"> <logos> The fact that most people vote for the most visible candidate on their side rather than the one that most closely represents their interests is a problem with the electorate and also a result of our winner-take-all voting system </logos> </relation_support>, but <claim id="r"> neither of those are in conflict with the USA being a democracy by definition </claim>. 
 </reply>
 <reply id="cn64i37" author="Smelly_Bob">
-  <claim> Okay, I think you have officially Changed My View haha... </claim> <claim> it seems like the problem is more caused by the populace not being responsible voters </claim>, <claim> I see that and agree with it </claim>. <claim> Ideally I would like it if no money was involved in the poltical process </claim>, but <claim> that is naive </claim>.
+ <relation_agreement ref="r"> <claim id="s"> Okay, I think you have officially Changed My View haha... </claim> </relation_agreement> <claim id="s"> it seems like the problem is more caused by the populace not being responsible voters </claim>, <claim id="t"> I see that and agree with it </claim>. <claim id="u"> Ideally I would like it if no money was involved in the poltical process </claim>, but <claim id="v"> that is naive </claim>.
 </reply>
 <reply id="cn6a4ve" author="brutishbloodgod">
   &gt;<quote> Okay, I think you have officially Changed My View haha </quote>
 
 Glad this has been a productive discussion. If your view has indeed been changed, please draw your attention to "The delta (∆) system" in the sidebar and award me one delta. 
 
-<claim> The reason I think this is important is because I'm pissed off about the way things are in America </claim>, as I'm sure you are, and <claim> I always think that the best way to address a problem is to see it for what it is </claim>. <claim> America's problem isn't that it isn't a democracy </claim> ; rather, <claim> I think that America's problem is that it has fetishized democracy to the point where anything resulting from that system is accepted, even if it's corrupt and tyrannical </claim> , and <claim> that's exactly what it's turning into </claim>. <logos> No, we're probably never going to get money out of politics entirely </logos> , but <logos> <pathos> corporations being able to anonymously fund entire campaigns is a major threat to healthy government, even if it isn't, strictly speaking, un-democratic </pathos> </logos>.
+<claim id="v"> The reason I think this is important is because I'm pissed off about the way things are in America </claim>, as I'm sure you are, and <claim id="w"> I always think that the best way to address a problem is to see it for what it is </claim>. <claim id="x"> America's problem isn't that it isn't a democracy </claim> ; rather, <claim id="y"> I think that America's problem is that it has fetishized democracy to the point where anything resulting from that system is accepted, even if it's corrupt and tyrannical </claim> , and <claim id="z"> that's exactly what it's turning into </claim>. <relation_support ref="y"> <logos> No, we're probably never going to get money out of politics entirely </logos> , but <logos> <pathos> corporations being able to anonymously fund entire campaigns is a major threat to healthy government, even if it isn't, strictly speaking, un-democratic </pathos> </logos> </relation_support> .
 </reply>
 <reply id="cn6lwak" author="Smelly_Bob">
 &amp;#8710;
 
 A delta for you then! (I'm new, so sorry in advance if I mess it up)
 
-Maybe I put forward the wrong view, but <claim> I think you and I more or less agree that their is something fetid in the system </claim> . <pathos> I get tired of seeing people worship at the altar of the US flag </pathos> - <pathos> they seem blind to what the US government is really about </pathos>. 
+Maybe I put forward the wrong view, but <relation_agreement ref="y"> <claim id="aa"> I think you and I more or less agree that their is something fetid in the system </claim> </relation_agreement> . <relation_support ref="aa"> <pathos> I get tired of seeing people worship at the altar of the US flag </pathos> - <pathos> they seem blind to what the US government is really about </pathos> </relation_support> . 
 Cheers!
 </reply>
 </thread>
