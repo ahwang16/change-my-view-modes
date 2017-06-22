@@ -5,21 +5,21 @@
 <OP author="Helicase21">
 Title is mostly to get attention, and I'm working from a specific set of assumptions. My argument is as follows:
 
-1) The chances of the entire world adopting a vegan/vegetarian diet are slim to none
+  1) <relation_support ref="b"> <logos> The chances of the entire world adopting a vegan/vegetarian diet are slim to none </logos>
 
-1a) Therefore, there will always be a market for meat and other animal products
+  1a) <logos> Therefore, there will always be a market for meat and other animal products </logos>
 
-2) The food market, like all other markets, operates on general principles of supply and demand
+2) <logos> The food market, like all other markets, operates on general principles of supply and demand </logos>
 
-3) Meat farmers can use techniques exhibiting a range of costs or benefits, both in terms of environmental impact and animal welfare.
+3) <logos> Meat farmers can use techniques exhibiting a range of costs or benefits, both in terms of environmental impact and animal welfare. </logos>
 
-4) A vegan or vegetarian diet denies demand, and thus potential revenue, to all meat-producing farms, regardless of how humane or environmentally sound their practice are.
+4) <logos> A vegan or vegetarian diet denies demand, and thus potential revenue, to all meat-producing farms, regardless of how humane or environmentally sound their practice are. </logos> </relation_support>
 
-4a) Since the majority of farms are large factory farms, I concede that this is probably good for animal welfare. **However**:
+4a) <claim id="a"> Since the majority of farms are large factory farms, I concede that this is probably good for animal welfare. </claim> **However**:
 
-5) Purchasing meat from farms known to produce their meat in an ethical way not only denies demand to large factory farms but helps improve the market share of ethical meat-growing, which seems as though it would be even better for animal welfare.
+5) <relation_support ref="a"> <logos> Purchasing meat from farms known to produce their meat in an ethical way not only denies demand to large factory farms but helps improve the market share of ethical meat-growing, which seems as though it would be even better for animal welfare. </logos> </relation_support>
 
-My general view is that people should probably as a rule eat less meat from better growers, and that will make for a bigger shift in growing practices than simply people dropping out of eating meat altogether. Moreover, this practice would be much easier to "evangelize" than a vegetarian or vegan diet. Face it, meat is tasty (and non-factory meat is often tastier than factory-farmed meat, at least in my own anecdotal experience)
+<claim id="b"> My general view is that people should probably as a rule eat less meat from better growers </claim>, and <claim id="c"> that will make for a bigger shift in growing practices than simply people dropping out of eating meat altogether </claim>. Moreover, <claim id="d"> this practice would be much easier to "evangelize" than a vegetarian or vegan diet </claim>. <relation_support ref="d"> <pathos> Face it, meat is tasty </pathos> (and <pathos> <ethos> non-factory meat is often tastier than factory-farmed meat, at least in my own anecdotal experience </ethos> </pathos>) </relation_support>
 
 
 
@@ -30,19 +30,19 @@ _____
 &gt; *Hello, users of CMV! This is a footnote from your moderators. We'd just like to remind you of a couple of things. Firstly, please remember to* ***[read through our rules](http://www.reddit.com/r/changemyview/wiki/rules)***. *If you see a comment that has broken one, it is more effective to report it than downvote it. Speaking of which,* ***[downvotes don't change views](http://www.reddit.com/r/changemyview/wiki/guidelines#wiki_upvoting.2Fdownvoting)****! If you are thinking about submitting a CMV yourself, please have a look through our* ***[popular topics wiki](http://www.reddit.com/r/changemyview/wiki/populartopics)*** *first. Any questions or concerns? Feel free to* ***[message us](http://www.reddit.com/message/compose?to=/r/changemyview)***. *Happy CMVing!*
 </OP>
 <reply id="cnet8f7" author="lnfinity">
-  <claim> I take some issue with assumption #1. </claim> <logos> Dramatic societal changes have happened multiple times throughout history. </logos> <logos> They are gradual and at times may seem impossible to many </logos>, but <logos> they do happen </logos>.
+  <relation_undercutter ref "b"> <claim id="e"> I take some issue with assumption #1. </claim> </relation_undercutter> <relation_support ref="e"> <logos> Dramatic societal changes have happened multiple times throughout history. </logos> <logos> They are gradual and at times may seem impossible to many </logos>, but <logos> they do happen </logos> </relation_support>.
 
-<claim> The larger issue is that you are somehow concluding that someone choosing to go vegan gives more demand to large factory farms. </claim> <logos> You are correct that it may reduce the demand for meat from *slightly* less cruel farms </logos>, but <logos> it also takes demand away from the larger farms </logos>. <logos> <pathos> Going vegan means fewer animals suffer on small farms and fewer animals suffer on factory farms, not that fewer animals suffer on small farms and more animals suffer on factory farms. </pathos> </logos>
+<claim id="f"> The larger issue is that you are somehow concluding that someone choosing to go vegan gives more demand to large factory farms. </claim> <relation_support ref="f"> <logos> You are correct that it may reduce the demand for meat from *slightly* less cruel farms </logos>, but <logos> it also takes demand away from the larger farms </logos>. <logos> <pathos> Going vegan means fewer animals suffer on small farms and fewer animals suffer on factory farms, not that fewer animals suffer on small farms and more animals suffer on factory farms. </pathos> </logos> </relation_support>
 </reply>
 <reply id="cnetcl9" author="Helicase21">
-<claim> Someone going vegan and someone becoming an ethical carnivore reduce demand for factory-farmed meat by exactly the same amount (1 person). </claim> <logos> The ethical carnivore just happens to *also* increase demand for responsibly-grown meat. </logos> 
+<claim id="g"> Someone going vegan and someone becoming an ethical carnivore reduce demand for factory-farmed meat by exactly the same amount (1 person). </claim> <relation_support ref="g"> <logos> The ethical carnivore just happens to *also* increase demand for responsibly-grown meat. </logos> </relation_support>
 </reply>
 <reply id="cnetjmw" author="lnfinity">
 &gt; <quote> Someone going vegan and someone becoming an ~~ethical~~ *slightly less unethical* carnivore reduce demand for factory-farmed meat by exactly the same amount (1 person). The ~~ethical~~ *slightly less unethical* carnivore just happens to also increase demand for responsibly-grown meat. </quote>
 
-  I fixed your statement. <claim> Someone who eats "happy" meat isn't helping animals. </claim> <logos> <pathos> They are simply supporting farms that are somewhat less cruel. </pathos> </logos>
+  I fixed your statement. <relation_undercutter ref="g"> <claim id="h"> Someone who eats "happy" meat isn't helping animals. </claim> </relation_undercutter> <relation_support ref="h"> <logos> <pathos> They are simply supporting farms that are somewhat less cruel. </pathos> </logos> </relation_support>
 </reply>
 <reply id="cnetkwd" author="Helicase21">
-<claim> Since, as you stated in your first post of this discussion, you reject my first assertion, I think we're just going to have to agree to disagree on that one. </claim>
+<relation_partial_attack ref="h"> <claim id="i"> Since, as you stated in your first post of this discussion, you reject my first assertion, I think we're just going to have to agree to disagree on that one. </claim> </relation_partial_attack>
 </reply>
 </thread>
