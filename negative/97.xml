@@ -3,14 +3,14 @@
 <title>CMV: I believe that regularly browsing 4chan will make you into a worse person</title>
 <source>http://www.reddit.com/r/changemyview/comments/2rawgb/cmv_i_believe_that_regularly_browsing_4chan_will/</source>
 <OP author="InsaneTeaparty">
-<logos> Because of the anonymity on 4chan people are more prone to not think through, care about what they post and are quicker to throw out insults. </logos> <logos> They will care about how people respond to them </logos>, but <logos> since it's largely negative they will stoop down to the same level rather than go to any high ground since they are not linked to an identity </logos>.
+<relation_support ref="a"> <logos> Because of the anonymity on 4chan people are more prone to not think through, care about what they post and are quicker to throw out insults. </logos> </relation_support> <relation_support ref="a"> <logos> They will care about how people respond to them </logos>, but <logos> since it's largely negative they will stoop down to the same level rather than go to any high ground since they are not linked to an identity </logos> </relation_support>.
 
-  <pathos> Surrounding the entire site there's a general pessimistic group mentality </pathos>, and <logos> people are subconsciously encouraged to take part of it in order to feel like they are a part of the group </logos>. <logos> Some boards will have specific groups of people who they are encouraged to hate, women, SJWs, casual gamers, Jews </logos>, and <logos> any reasonable argument against a poster can be made redundant by saying or thinking they are a part of these agendas or groups </logos>.
+ <relation_support ref="a"> <pathos> Surrounding the entire site there's a general pessimistic group mentality </pathos>, and <logos> people are subconsciously encouraged to take part of it in order to feel like they are a part of the group </logos> </relation_support>. <relation_support ref="a"> <logos> Some boards will have specific groups of people who they are encouraged to hate, women, SJWs, casual gamers, Jews </logos>, and <logos> any reasonable argument against a poster can be made redundant by saying or thinking they are a part of these agendas or groups </logos> </relation_support>.
 
-<logos> On boards you will find echo chambers where people are more prone to believe rumors than proof </logos>. <logos> Things about e-celebrities will start as rumors </logos>, <logos> ideas about them or things will get taken out of context and it will be posted continually until it's taken as fact </logos>.
-<pathos> <logos> It will reach conspiracy theory levels of "proof" where people will simply believe it because they feel as if they are a part of a group-effort that's uncovering something. </logos> </pathos>
+<relation_support ref="a"> <logos> On boards you will find echo chambers where people are more prone to believe rumors than proof </logos> </relation_support>. <relation_support ref="a"> <logos> Things about e-celebrities will start as rumors </logos>, <logos> ideas about them or things will get taken out of context and it will be posted continually until it's taken as fact </logos> </relation_support>.
+<relation_support ref="a"> <pathos> <logos> It will reach conspiracy theory levels of "proof" where people will simply believe it because they feel as if they are a part of a group-effort that's uncovering something. </logos> </pathos> </relation_support>
 
-<claim> Surrounding yourself with this will in general make you into a more pessimistic, negative and possibly depressive person. </claim>
+<claim id="a"> Surrounding yourself with this will in general make you into a more pessimistic, negative and possibly depressive person. </claim>
 
   <claim> I'm not saying that every person who browses 4chan is depressed or negative </claim>, but <claim> that the majority of them are affected negatively by browsing the site </claim>.
 
@@ -22,11 +22,11 @@ _____
 &gt; *Hello, users of CMV! This is a footnote from your moderators. We'd just like to remind you of a couple of things. Firstly, please remember to* ***[read through our rules](http://www.reddit.com/r/changemyview/wiki/rules)***. *If you see a comment that has broken one, it is more effective to report it than downvote it. Speaking of which,* ***[downvotes don't change views](http://www.reddit.com/r/changemyview/wiki/guidelines#wiki_upvoting.2Fdownvoting)****! If you are thinking about submitting a CMV yourself, please have a look through our* ***[popular topics wiki](http://www.reddit.com/r/changemyview/wiki/populartopics)*** *first. Any questions or concerns? Feel free to* ***[message us](http://www.reddit.com/message/compose?to=/r/changemyview)***. *Happy CMVing!*
 </OP>
 <reply id="cne8jx4" author="jacobpilawa">
-  <claim> I think this isn't ALWAYS true. </claim> <logos> Some people aren't changed by others that easily. </logos> And <claim> I think your argument applies only to boards like /b/ or /pol/ </claim>. <logos> If you go on 4chan right now to the /wg/ board (wallpapers) or the /vr/ board, almost everyone there is nice </logos>. They are the boards to people with dedication and interests, though. 
+  <claim id="b"> I think this isn't ALWAYS true. </claim> <relation_support ref="b"> <logos> Some people aren't changed by others that easily. </logos> </relation_support> And <claim id="c"> I think your argument applies only to boards like /b/ or /pol/ </claim>. <relation_support ref="c"> <logos> If you go on 4chan right now to the /wg/ board (wallpapers) or the /vr/ board, almost everyone there is nice </logos> </relation_support>. They are the boards to people with dedication and interests, though. 
 </reply>
 <reply id="cne908s" author="InsaneTeaparty">
   <claim> I think those boards are bit more niche and have less users. </claim>
 
-  But <claim> I get your point </claim>, <ethos> <logos> in my experience /vg/ has been pretty good since people in those threads generally like the games they're talking about and not just wildly pissing about </logos> </ethos>.
+  But <claim id="d"> I get your point </claim>, <relation_support ref="d"> <ethos> <logos> in my experience /vg/ has been pretty good since people in those threads generally like the games they're talking about and not just wildly pissing about </logos> </ethos> </relation_support>.
 </reply>
 </thread>
