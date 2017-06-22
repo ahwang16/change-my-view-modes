@@ -22,18 +22,18 @@ _____
 &gt; *Hello, users of CMV! This is a footnote from your moderators. We'd just like to remind you of a couple of things. Firstly, please remember to* ***[read through our rules](http://www.reddit.com/r/changemyview/wiki/rules)***. *If you see a comment that has broken one, it is more effective to report it than downvote it. Speaking of which,* ***[downvotes don't change views](http://www.reddit.com/r/changemyview/wiki/guidelines#wiki_upvoting.2Fdownvoting)****! If you are thinking about submitting a CMV yourself, please have a look through our* ***[popular topics wiki](http://www.reddit.com/r/changemyview/wiki/populartopics)*** *first. Any questions or concerns? Feel free to* ***[message us](http://www.reddit.com/message/compose?to=/r/changemyview)***. *Happy CMVing!*
 </OP>
 <reply id="cne90oe" author="stanhhh">
-  <claim> It will certainly make you a colder person. </claim> Or <claim> let's say, a "less sensitive" person </claim>. But <claim> I'm not conviced that this is always a bad thing. </claim>
+  <claim> It will certainly make you a colder person. </claim> Or <claim> let's say, a "less sensitive" person </claim>. But <claim id="a"> I'm not conviced that this is always a bad thing. </claim>
 
-<ethos> After all the gore I witnessed on 4chan, I'm able to jump in an accident scene and actually keep my cool while most other people around are freaking out like crazed apes, yelling and really doing nothing to help at all. </ethos>
-<ethos> After all the freak sexualities i was exposed to in 4chan, I find it hard to judge anyone about anything they do with their bodies and partners. </ethos>
+<relation_support ref="a"> <ethos> After all the gore I witnessed on 4chan, I'm able to jump in an accident scene and actually keep my cool while most other people around are freaking out like crazed apes, yelling and really doing nothing to help at all. </ethos> </relation_support>
+<relation_support ref="a"> <ethos> After all the freak sexualities i was exposed to in 4chan, I find it hard to judge anyone about anything they do with their bodies and partners. </ethos> </relation_support>
 
 And so on.
 
-  <claim> I'd say 4chan will open your eyes and show you Reality on many topics. </claim>
+  <claim id="b"> I'd say 4chan will open your eyes and show you Reality on many topics. </claim>
 
-  <logos> It can have a bad influence with all the racism etc tho </logos> but <logos> this, you have to keep in check yourself </logos>. 
+ <relation_support ref="b"> <logos> It can have a bad influence with all the racism etc tho </logos> but <logos> this, you have to keep in check yourself </logos> </relation_support>.
 
-About "pessimism"..well yeah...<logos> some people may answer to you that there is not much to be optimistic about in this world and that maybe you are delusional/uninformed to think otherwise </logos>.
+About "pessimism"..well yeah...<relation_support ref="b"> <logos> some people may answer to you that there is not much to be optimistic about in this world and that maybe you are delusional/uninformed to think otherwise </logos> </relation_support>.
   Are they right? Are they wrong?  <claim> Hard to tell </claim>. 
 </reply>
 <reply id="cne92a0" author="InsaneTeaparty">
@@ -42,16 +42,16 @@ About "pessimism"..well yeah...<logos> some people may answer to you that there 
 Is this something that has actually happened?
 </reply>
 <reply id="cnea8vl" author="stanhhh">
-  <claim> Yes and no </claim>.
+  <claim id="a"> Yes </claim> and <claim id="b"> no </claim>.
 
-  <pathos> a little girl was swept by a car in Paris </pathos>, <pathos> she was lying unconscious with a bit of blood from her nose </pathos>, <pathos> people were hysterical </pathos>, <ethos> <pathos> I kept the mother in check cause she was trying to move her </pathos> </ethos>, <pathos> <ethos> then had to keep the people around in check cause they were physically trying to restrain her to prevent the mother to only touch her </ethos> </pathos> and <pathos> she was getting totally mad </pathos>... <pathos> <ethos> All while calling the ER and taking a picture of the car's licence plate cause the driver kept near his open door all the time (while he was being harassed and yelled at by like 10 persons) </ethos> </pathos> . I've had no follow up on this incident.
+ <relation_support ref="a" <pathos> a little girl was swept by a car in Paris </pathos>, <pathos> she was lying unconscious with a bit of blood from her nose </pathos>, <pathos> people were hysterical </pathos>, <ethos> <pathos> I kept the mother in check cause she was trying to move her </pathos> </ethos>, <pathos> <ethos> then had to keep the people around in check cause they were physically trying to restrain her to prevent the mother to only touch her </ethos> </pathos> and <pathos> she was getting totally mad </pathos>... <pathos> <ethos> All while calling the ER and taking a picture of the car's licence plate cause the driver kept near his open door all the time (while he was being harassed and yelled at by like 10 persons) </ethos> </pathos> </relation_support> . I've had no follow up on this incident.
 
-  <pathos> Just 2 weeks ago, heard and felt a crash very close to my house </pathos> , <pathos> a drunken teen had just smashed his car full force into another's property wall after missing the turn </pathos>, <pathos> neighbors went out but no one had the head to keep the guy in check, cause he was walking near his ruined car, not understanding what just happened told him to stay put and sit and just generally speak to him so he doesn't freak out </pathos>. <pathos> People were looking from a few meters, not doing anything </pathos>. <pathos> <ethos> I called the ER </ethos> </pathos>, <pathos> the guy stood up and tried to restart his car </pathos>, <pathos> had to take his keys from him, spent 20 minutes, making small talk, reassuring him and just generally checking if he wasn't internally hurt/losing consciousness/ had blood coming out from the mouth ears or nose </pathos>.
-  <pathos> He seemed ok appart from the shock and high level drunkenness. </pathos>
+  <relation_support ref="a"> <pathos> Just 2 weeks ago, heard and felt a crash very close to my house </pathos> , <pathos> a drunken teen had just smashed his car full force into another's property wall after missing the turn </pathos>, <pathos> neighbors went out but no one had the head to keep the guy in check, cause he was walking near his ruined car, not understanding what just happened told him to stay put and sit and just generally speak to him so he doesn't freak out </pathos>. <pathos> People were looking from a few meters, not doing anything </pathos>. <pathos> <ethos> I called the ER </ethos> </pathos>, <pathos> the guy stood up and tried to restart his car </pathos>, <pathos> had to take his keys from him, spent 20 minutes, making small talk, reassuring him and just generally checking if he wasn't internally hurt/losing consciousness/ had blood coming out from the mouth ears or nose </pathos>.
+  <pathos> He seemed ok appart from the shock and high level drunkenness. </pathos> </relation_support>
 
-  Aaand... <ethos> I work in a surgery unit </ethos> and <ethos> the kind of gore I witness there doesn't shock me at all </ethos> .
+  Aaand... <relation_support ref="c"> <ethos> I work in a surgery unit </ethos> and <ethos> the kind of gore I witness there doesn't shock me at all </ethos> </relation_support> .
 
-So yeah. It wasn't a person cut in half or whatever gore you can see on 4chan but <claim> I think a bit of desensitization can help keep a leveled head in stressful situations </claim>.
+So yeah. It wasn't a person cut in half or whatever gore you can see on 4chan but <claim id="c"> I think a bit of desensitization can help keep a leveled head in stressful situations </claim>.
 
 </reply>
 </thread>
