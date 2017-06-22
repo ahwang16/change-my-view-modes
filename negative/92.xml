@@ -3,25 +3,25 @@
 <title>CMV The EGG came first before the chicken.</title>
 <source>http://www.reddit.com/r/changemyview/comments/2rcpqy/cmv_the_egg_came_first_before_the_chicken/</source>
 <OP author="PM_ME_CUTE_PUPPYS">
-According to the theory of evolution it makes more sense that the egg preceded the chicken. Before the chicken there was a similar but different creature. Let's call it X. Its completely arbitrary when the X officially evolved into a chicken, but at some point it does. An X, not a chicken lays the first chicken egg. The chicken egg comes before any creature considered a chicken exist. Am I wrong?
+<relation_support ref="a"> <logos> According to the theory of evolution it makes more sense that the egg preceded the chicken </logos>. <logos> Before the chicken there was a similar but different creature. </logos> <pathos> Let's call it X. </pathos> <logos>Its completely arbitrary when the X officially evolved into a chicken </logos>, but <logos> at some point it does </logos>. <logos> An X, not a chicken lays the first chicken egg. </logos> </relation_support> <claim id="a"> The chicken egg comes before any creature considered a chicken exist. </claim> Am I wrong?
 
 PS I'm playing laser tag soon so I will respond in 20ish minutes.
 </OP>
 <reply id="cnf2j7f" author="nonowh0">
-  <claim> If we are being really technical, we can confidently say that the egg came first. </claim>
+  <relation_agreement ref="a"> <claim id="b"> If we are being really technical, we can confidently say that the egg came first. </claim> </relation_agreement>
 
-  <logos> The chicken, as far as we know came into existence around [2500-2100 BC.]</logos> <ethos> (http://en.wikipedia.org/wiki/Chicken#Origins) </ethos>
+  <relation_support ref="b"> <logos> The chicken, as far as we know came into existence around [2500-2100 BC.]</logos> <ethos> (http://en.wikipedia.org/wiki/Chicken#Origins) </ethos>
 
   <logos> Egg bearing animals, however, seem to be [as old as the dinosuars] </logos> <ethos> (http://en.wikipedia.org/wiki/Dinosaur_egg) </ethos> 
 
-<logos> From this, we can conclude that the egg came first. </logos> <claim> ^Unless ^you ^are ^talking ^about ^the ^CHICKEN ^egg ^vs ^the ^chicken, ^in ^which ^case ^I ^have ^no ^clue. </claim>
+<logos> From this, we can conclude that the egg came first. </logos> </relation_support> <claim id="c"> ^Unless ^you ^are ^talking ^about ^the ^CHICKEN ^egg ^vs ^the ^chicken, ^in ^which ^case ^I ^have ^no ^clue. </claim>
 </reply>
 <reply id="cnf52op" author="PM_ME_CUTE_PUPPYS">
-<claim> While the question doesn't specifically say a chicken egg, I think that argument is kind of silly. </claim>
+<relation_undercutter ref="c"> <claim id="d"> While the question doesn't specifically say a chicken egg, I think that argument is kind of silly. </claim> </relation_undercutter>
 </reply>
 <reply id="cnfkjww" author="nonowh0">
-  well... <claim> yeah. </claim>
+  well... <relation_agreement ref="d"> <claim id="e"> yeah. </claim> </relation_agreement>
 
-  <logos> My comment was a silly way to point out a flaw in your post. </logos> <logos> It wasn't an actual argument. </logos>
+  <relation_support ref="e"> <logos> My comment was a silly way to point out a flaw in your post. </logos> <logos> It wasn't an actual argument. </logos> </relation_support>
 </reply>
 </thread>
